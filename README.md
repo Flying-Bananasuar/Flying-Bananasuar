@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Flying-Bananasuar
+- 👋 Hi, I’m Allen Yang
 - 👀 I’m interested in machine learning
 - 🌱 I have experience in python, pandas, numpy, sklearn, scikit-learn, boto3, json, spark, SQL, Microsoft SQL Server, MySQL, Tableau, Amazon Web Service  (AWS Kinesis, AWS Lambda, AWS EMR, AWS Glue, AWS Athena, AWS QuickSight), Java, NetBeans, C++, Red Hat Linux, Power BI
 - 📫 How to reach me https://www.linkedin.com/in/allen-yang-604244227/
